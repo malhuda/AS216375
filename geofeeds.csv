@@ -1,5 +1,7 @@
 2a05:dfc7:5c00::/38,ID,ID-RI,Pekanbaru,28291,/48
 2a05:dfc7:5c00::/48,ID,ID-RI,Pekanbaru,28291,/56
+2a05:dfc7:e800::/38,JP,JP-08,Ibaraki,311-4203,/48
+2a05:dfc7:e800::/48,JP,JP-08,Ibaraki,311-4203,/56
 2a13:df80:8800::/44,ID,ID-RI,Pekanbaru,28291,/48
 2a13:df80:8800::/48,ID,ID-RI,Pekanbaru,28291,/56
 2a05:dfc7:5cf0::/44,JP,JP-08,Ibaraki,319-1221,/56
